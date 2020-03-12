@@ -208,7 +208,7 @@
 
 ![](images/bianinvt.jpg)
 
-新用户注册币安一定记得填写币安**推荐人ID 18635115 **，有很多优惠活动。
+新用户注册币安一定记得填写币安推荐人ID 18635115 ，有很多优惠活动。
 
 ### 1.2 Gateio （交易所中的耐克，品牌老，信誉强，用户多）
 
@@ -223,7 +223,7 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 > * 注册地址1：[https://gate.io](https://gate.io)
 > * 注册地址2：[https://www.gatecn.io/signup](https://www.gatecn.io/signup)
 > * 注册地址3：[https://gateio.org/signup](https://gateio.org/signup)
-> * 邀请人ID请填：** 769880 **
+> * [邀请人ID请填： 769880 ]
 
 >  * 或扫描下方二维码下载APP：
 
