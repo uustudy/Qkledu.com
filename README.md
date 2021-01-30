@@ -189,7 +189,48 @@
 其中币安网、火币网、OKEX、ZB网这四个交易所是大家最常用的几个交易所，都是之前的国内平台出海，都很安全，可以放心购买。需要注意的是，比特币的价格波动很大，风险较大，买之前需要做好风险控制，注意闲钱投资。
 
 
-### 1.1 币安
+
+
+### 1.1 Gateio （交易所中的耐克，品牌老，信誉强，用户多）
+
+![](images/logo-gate.jpg)
+
+Gateio比特儿是一家有态度的全球区块链资产交易平台。从13年创办至今,已为来自全球超过130个国家的数百万用户,提供了近百种优质区块链资产品类的交易和投资服务。
+支持RMB进场，通过c2c交易使用RMB直接购买比特币，赚钱了秒换回RMB哦
+
+Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引人的地方是秒充秒提，在速度上要比其他交易所好很多。同时它还独有地址共享技术，充错币的情况也不会发生。除此之外他们平台的活动也很多，不是只有交易才能获得奖励，写一句话写篇文章都是可以获得奖励的，类似的活动非常多。所以总的来说，Gate.io交易所还是很不错的。
+
+
+> * 注册地址1(需科学上网)：[https://gate.io](https://gate.io/signup/769880)
+> * 注册地址2(国内可直接访问)：[https://www.gateio.pro/signup](https://www.gateio.pro/signup/769880)
+> * [邀请人ID请填： 769880 ]
+
+>  * 或扫描下方二维码下载APP：
+
+![](images/gateinvt.jpg)
+
+新用户注册GateIo一定记得填写**推荐人ID 769880 **，有很多优惠活动.
+
+
+### 1.2 huobi 火币 （排名前3的大交易所）
+
+![](images/huobi-logo.jpg)
+
+火币全球站（Huobi Global）总部位于新加坡，是火币集团旗下服务于全球专业交易用户的创新数字资产交易平台，它致力于发现优质的创新数字资产投资机会。目前提供包括BTC、ETH、LTC、HT在内的上百个币种的币币交易，主流币种的杠杆交易、合约交易，和包括USD、CNY在内的19种法币与主流币种的OTC交易。
+
+火币集团是知名数字经济领军企业，自2013年创立以来，一直致力于区块链领域的核心技术突破以及区块链技术和产业融合。围绕区块链产业上下游，发展包括产业区块链、公链、数字资产交易、数字资产安全钱包、矿池、投资、孵化、研究等多业务板块，先后投资60+上下游企业，已形成全面的数字经济产业生态体系。火币集团与阿根廷、俄罗斯、泰国、尼日利亚等多个国家开展区块链技术、应用领域合作，助推全球区块链应用落地。
+
+火币集团在全球多个地区拥有数字资产服务商合规牌照，在美国、日本、直布罗陀、泰国等12个国家和地区设有子公司或合伙公司，拥有超过1300名员工。火币平台的数字资产交易规模已全球领先，为超过170+国家的千万级用户提供安全、可信赖的价值网络服务。
+
+
+> * 注册地址1(需科学上网)：[https://huobi.com](https://huobi.com/zh-cn/register/?invite_code=ribg3)
+> * 注册地址2(国内可直接访问)：[https://www.huobi.be/zh-cn/register/?invite_code=ribg3](https://www.huobi.be/zh-cn/register/?invite_code=ribg3)
+>  * 或扫描下方二维码下载APP：
+
+![](images/huobi.png)
+
+
+### 1.3 币安
 
 ![](images/logo-bian.jpg)
 
@@ -202,36 +243,15 @@
 
 ![](images/bian2.jpg)
 
-> * 注册地址1：[https://binance.com/register?ref=18635115](https://www.binancezh.com/cn/register?ref=18635115)（需要科学D上网）
-> * 注册地址2：[https://www.binancezh.com/cn/register?ref=18635115](https://www.binancezh.com/cn/register?ref=18635115)
+> * 注册地址1(需科学上网)：[https://binance.com/register?ref=18635115](https://www.binancezh.com/cn/register?ref=18635115)（需要科学D上网）
+> * 注册地址2(国内可直接访问)：[https://accounts.binancezh.cc/zh-CN/register?ref=18635115](https://accounts.binancezh.cc/zh-CN/register?ref=18635115)
 > * 或直接扫描下方二维码下载APP：
 
 ![](images/bianinvt.jpg)
 
 新用户注册币安一定记得填写币安推荐人ID 18635115 ，有很多优惠活动。
 
-### 1.2 Gateio （交易所中的耐克，品牌老，信誉强，用户多）
-
-![](images/logo-gate.jpg)
-
-Gateio比特儿是一家有态度的全球区块链资产交易平台。从13年创办至今,已为来自全球超过130个国家的数百万用户,提供了近百种优质区块链资产品类的交易和投资服务。
-支持RMB进场，通过c2c交易使用RMB直接购买比特币，赚钱了秒换回RMB哦
-
-Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引人的地方是秒充秒提，在速度上要比其他交易所好很多。同时它还独有地址共享技术，充错币的情况也不会发生。除此之外他们平台的活动也很多，不是只有交易才能获得奖励，写一句话写篇文章都是可以获得奖励的，类似的活动非常多。所以总的来说，Gate.io交易所还是很不错的。
-
-
-> * 注册地址1：[https://gate.io](https://gate.io)
-> * 注册地址2：[https://www.gatecn.io/signup](https://www.gatecn.io/signup)
-> * 注册地址3：[https://gateio.org/signup](https://gateio.org/signup)
-> * [邀请人ID请填： 769880 ]
-
->  * 或扫描下方二维码下载APP：
-
-![](images/gateinvt.jpg)
-
-新用户注册GateIo一定记得填写**推荐人ID 769880 **，有很多优惠活动.
-
-### 1.3 OKEX 
+### 1.4 OKEX 
 
 ![](images/logo-okex.jpg)
 
@@ -242,12 +262,9 @@ Okex的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 
 Okex的合约交易杠杠风险很大，也可以设置触发价格，但是在暴跌的时候会出现来不及成交的情况，比方你开了多仓，设定的某个价格触发平仓止损比方说10块钱吧，但是价格瞬间从10.5跌倒9块的时候，有可能你设置的10块钱触发价格是无法成交的，因为跌的太快了，这个主要是合约的流动性的问题了，所以这点要清楚，做合约一定要选流动性好的，在okex上可以选择像 btc，eth,eos等这些主流的合约来做，BTG、XRP、BCH流动性就比较差一点，自己去拿捏吧。
 
-> * 注册地址1：[https://www.okex.com](https://www.okex.com/join/1838269)（需要科学D上网）
-> * 注册地址2：[https://www.okex.me](https://www.okex.me/join/1838269)
+> * 注册地址1(需科学上网)：[https://www.okex.com](https://www.okex.com/join/1838269)（需要科学D上网）
+> * 注册地址2(国内可直接访问)：[https://www.okexcn.com/join/1838269](https://www.okexcn.com/join/1838269)
 
-> * 或扫描下方二维码下载APP：
-
-![](images/okexinvt.jpg)
 
 
 ### 2. 交易模式
