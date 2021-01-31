@@ -207,7 +207,7 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 
 >  * 或扫描下方二维码下载APP：
 
-![](images/gateinvt.jpg)
+![](images/gateinvt.jpg!/scale/50)
 
 新用户注册GateIo一定记得填写**推荐人ID 769880 **，有很多优惠活动.
 
@@ -227,7 +227,7 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 > * 注册地址2(国内可直接访问)：[https://www.huobi.be/zh-cn/register/?invite_code=ribg3](https://www.huobi.be/zh-cn/register/?invite_code=ribg3)
 >  * 或扫描下方二维码下载APP：
 
-![](images/huobi.png)
+![](images/huobi.png!/scale/50)
 
 
 ### 1.3 币安
@@ -247,7 +247,7 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 > * 注册地址2(国内可直接访问)：[https://accounts.binancezh.cc/zh-CN/register?ref=18635115](https://accounts.binancezh.cc/zh-CN/register?ref=18635115)
 > * 或直接扫描下方二维码下载APP：
 
-![](images/bianinvt.jpg)
+![](images/bianinvt.jpg!/scale/80)
 
 新用户注册币安一定记得填写币安推荐人ID 18635115 ，有很多优惠活动。
 
