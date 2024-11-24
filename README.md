@@ -184,15 +184,15 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 
 > * 注册地址1(国内可直接访问)：<br/>
 [https://www.gateio24.com/signup/BQMSUFE](https://www.gateio24.com/signup/BQMSUFE)
-> * 注册地址2(需科学上网)：
+> * 注册地址2(需科学上网)：<br/>
 [https://gate.io](https://www.gate.io/signup/BQMSUFE)
 
-* [邀请人ID请填： BQMSUFE ]
-
+> [邀请人ID请填： BQMSUFE ]
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID: BQMSUFE ，有很多优惠活动.</font>**
 * 或扫描下方二维码下载APP：
 <img src="images/GATE.jpg" alt="GATE" width="200" height="400">
 
-**<font color=LimeGreen>新用户注册一定记得填写推荐人ID: BQMSUFE ，有很多优惠活动.</font>**
+
 
 ### 1.2 币安
 
@@ -206,21 +206,22 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 币安自出生起就立足国际，在海外的受欢迎程度也不错。而币安也不负众望，持续推出更多语言，方便国际友人交易。截止到目前，币安已支持汉语、英语、日语、韩语、法语等七种语言，目前好像没看到哪个交易所有比它更多的。
 
 
-> * 注册地址1(需科学上网)：
+> * 注册地址1(需科学上网)：<br/>
 [https://binance.com/register?ref=18635115](https://www.binancezh.com/cn/register?ref=18635115)（需要科学D上网）
-> * 注册地址2(国内可直接访问)：
+> * 注册地址2(国内可直接访问)：<br/>
 [https://accounts.binancezh.cc/zh-CN/register?ref=18635115](https://accounts.binancezh.cc/zh-CN/register?ref=18635115)
-
-或直接扫描下方二维码下载APP：
-![](images/BA-2.jpg =200x342)
-或地址
-![binance](images/BA-1.jpg =200x240)
 
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  18635115 ，有很多优惠活动.</font>**
 
-### 1.3 OKX(原OKX)
+或直接扫描下方二维码下载APP：
+<img src="images/BA-2.jpg" alt="GATE" width="200" height="342">
+或地址
+<img src="images/BA-1.jpg" alt="GATE" width="200" height="240">
 
-![](images/logo-OKX.jpg)
+
+
+### 1.3 OKX(原OKX)
+<img src="images/logo-OKX.jpg" alt="OKX">
 
 OKX是一个非常受欢迎的加密货币交易所平台，更侧重于期货交易等金融衍生产品。
 投资者徐明星在2013年针对中国市场创建了加密货币交易所OKCoin，在2014年，他创建了OKX，该产品面向更高级的交易者。随着中国对加密货币交易所的强硬立场（最近有所减弱），OKX搬迁到法规少得多的国家马耳他，但是，该公司当前已在塞舌尔正式注册。
@@ -229,12 +230,11 @@ OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 
 OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在暴跌的时候会出现来不及成交的情况，比方你开了多仓，设定的某个价格触发平仓止损比方说10块钱吧，但是价格瞬间从10.5跌倒9块的时候，有可能你设置的10块钱触发价格是无法成交的，因为跌的太快了，这个主要是合约的流动性的问题了，所以这点要清楚，做合约一定要选流动性好的，在OKX上可以选择像 btc，eth,eos等这些主流的合约来做，BTG、XRP、BCH流动性就比较差一点，自己去拿捏吧。
 
-> * 注册地址(需科学上网)：
+> * 注册地址(需科学上网)：<br/>
 [https://www.OKX.com](https://OKX.com/join/1838269)（需要科学D上网）
 
 * 或扫描下方二维码下载APP：
-
-![OKX](images/OKX.jpg =200x229)
+<img src="images/OKX.jpg" alt="OKX" width="200" height="229">
 
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  1838269 ，有很多优惠活动.</font>**
 
