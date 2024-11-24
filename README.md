@@ -167,8 +167,10 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 [https://gate.io](https://www.gate.io/signup/BQMSUFE)
 
 > [邀请人ID请填： BQMSUFE ]
+
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID: BQMSUFE ，有很多优惠活动.</font>**
 * 或扫描下方二维码下载APP：
+
 <img src="images/GATE.jpg" alt="GATE" width="200" height="400">
 
 
@@ -193,14 +195,16 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  18635115 ，有很多优惠活动.</font>**
 
 或直接扫描下方二维码下载APP：
+
 <img src="images/BA-2.jpg" alt="GATE" width="200" height="342">
 或地址
+
 <img src="images/BA-1.jpg" alt="GATE" width="200" height="240">
 
 
 
 ### 1.3 OKX(原OKX)
-<img src="images/logo-OKX.jpg" alt="OKX">
+<img src="images/logo-OKX.png" alt="OKX">
 
 OKX是一个非常受欢迎的加密货币交易所平台，更侧重于期货交易等金融衍生产品。
 投资者徐明星在2013年针对中国市场创建了加密货币交易所OKCoin，在2014年，他创建了OKX，该产品面向更高级的交易者。随着中国对加密货币交易所的强硬立场（最近有所减弱），OKX搬迁到法规少得多的国家马耳他，但是，该公司当前已在塞舌尔正式注册。
@@ -213,6 +217,7 @@ OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 [https://www.OKX.com](https://OKX.com/join/1838269)（需要科学D上网）
 
 * 或扫描下方二维码下载APP：
+
 <img src="images/OKX.jpg" alt="OKX" width="200" height="229">
 
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  1838269 ，有很多优惠活动.</font>**
