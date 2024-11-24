@@ -182,7 +182,7 @@ Gateio比特儿是一家有态度的全球区块链资产交易平台。从13年
 
 Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引人的地方是秒充秒提，在速度上要比其他交易所好很多。同时它还独有地址共享技术，充错币的情况也不会发生。除此之外他们平台的活动也很多，不是只有交易才能获得奖励，写一句话写篇文章都是可以获得奖励的，类似的活动非常多。所以总的来说，Gate.io交易所还是很不错的。
 
-> * 注册地址1(国内可直接访问)：
+> * 注册地址1(国内可直接访问)：<br/>
 [https://www.gateio24.com/signup/BQMSUFE](https://www.gateio24.com/signup/BQMSUFE)
 > * 注册地址2(需科学上网)：
 [https://gate.io](https://www.gate.io/signup/BQMSUFE)
@@ -190,8 +190,7 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 * [邀请人ID请填： BQMSUFE ]
 
 * 或扫描下方二维码下载APP：
-
-![GATE](images/GATE.jpg =200x401)
+<img src="images/GATE.jpg" alt="GATE" width="200" height="400">
 
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID: BQMSUFE ，有很多优惠活动.</font>**
 
