@@ -166,9 +166,9 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 > * 注册地址2(需科学上网)：<br/>
 [https://gate.io](https://www.gate.io/signup/BQMSUFE)
 
-> [邀请人ID请填： BQMSUFE ]
+> [邀请人ID请填： **BQMSUFE** ]
 
-**<font color=LimeGreen>新用户注册一定记得填写推荐人ID: BQMSUFE ，有很多优惠活动.</font>**
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID: BQMSUFE ，有很多优惠活动.</font>**<br/>
 或扫描下方二维码下载APP：
 
 <img src="images/GATE.jpg" alt="GATE" width="200" height="400">
@@ -192,15 +192,13 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 > * 注册地址2(国内可直接访问)：<br/>
 [https://accounts.binancezh.cc/zh-CN/register?ref=18635115](https://accounts.binancezh.cc/zh-CN/register?ref=18635115)
 
-> [邀请人ID请填： 18635115 ]
+> [邀请人ID请填： **18635115** ]
 
 或直接扫描下方二维码下载APP：
 
-<img src="images/BA-2.jpg" alt="GATE" width="200" height="342"><br/>
+<img src="images/BA-2.jpg" alt="GATE" width="200" height="342">&nbsp;&nbsp;
 
-或地址<br/>
-
-<img src="images/BA-1.jpg" alt="GATE" width="200" height="240"><br/>
+<img src="images/BA-1.jpg" alt="GATE" width="400" height="440"><br/>
 
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  18635115 ，有很多优惠活动.</font>**
 
@@ -217,7 +215,7 @@ OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 > * 注册地址(需科学上网)：<br/>
 [https://www.OKX.com](https://OKX.com/join/1838269)
 
-> [邀请人ID请填： 1838269 ]
+> [邀请人ID请填： **1838269** ]
 
 * 或扫描下方二维码下载APP：
 
