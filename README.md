@@ -182,15 +182,18 @@ Gateio比特儿是一家有态度的全球区块链资产交易平台。从13年
 
 Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引人的地方是秒充秒提，在速度上要比其他交易所好很多。同时它还独有地址共享技术，充错币的情况也不会发生。除此之外他们平台的活动也很多，不是只有交易才能获得奖励，写一句话写篇文章都是可以获得奖励的，类似的活动非常多。所以总的来说，Gate.io交易所还是很不错的。
 
-> * 注册地址1(国内可直接访问)：[https://www.gateio24.com/signup/BQMSUFE](https://www.gateio24.com/signup/BQMSUFE)
-> * 注册地址2(需科学上网)：[https://gate.io](https://www.gate.io/signup/BQMSUFE)
-> * [邀请人ID请填： BQMSUFE ]
+> * 注册地址1(国内可直接访问)：
+[https://www.gateio24.com/signup/BQMSUFE](https://www.gateio24.com/signup/BQMSUFE)
+> * 注册地址2(需科学上网)：
+[https://gate.io](https://www.gate.io/signup/BQMSUFE)
 
->  * 或扫描下方二维码下载APP：
+* [邀请人ID请填： BQMSUFE ]
+
+* 或扫描下方二维码下载APP：
 
 ![GATE](images/GATE.jpg =200x401)
 
-**<font color=LimeGreen>新用户注册一定记得填写推荐人ID BQMSUFE ，有很多优惠活动.</font>**
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID: BQMSUFE ，有很多优惠活动.</font>**
 
 ### 1.2 币安
 
@@ -198,22 +201,23 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 
 （币安）binance.com，是由赵长鹏（CZ）领导一群数字资产爱好者，创建的一个专注区块链资产的交易平台。为用户提供更加安全、便捷的区块链资产兑换服务，聚合全球优质区块链资产，致力于打造世界级的区块链资产交易平台。从创立之初就定位为世界级的区块链资产交易平台。之所以称币安为世界级，是因为币安服务过的用户遍布全世界，目前币安大量用户来自于海内外多个国家，币安的核心团队以及投资顾问团队也由全球多个国家的专家组成，团队实力位列行业顶尖水平。而赵长鹏本身自小在加拿大长大，目前还在努力提高自己的中文表达能力，同时币安也在加强团队在中国的本地化运营。
 
-![](images/bian.jpg)
+![](images/bian2.jpg)
 
 币安用户来自180个不同的国家与地区。目前，用户已经突破千万，网站已支持8种语言。
 币安自出生起就立足国际，在海外的受欢迎程度也不错。而币安也不负众望，持续推出更多语言，方便国际友人交易。截止到目前，币安已支持汉语、英语、日语、韩语、法语等七种语言，目前好像没看到哪个交易所有比它更多的。
 
-![](images/bian2.jpg)
 
-> * 注册地址1(需科学上网)：[https://binance.com/register?ref=18635115](https://www.binancezh.com/cn/register?ref=18635115)（需要科学D上网）
-> * 注册地址2(国内可直接访问)：[https://accounts.binancezh.cc/zh-CN/register?ref=18635115](https://accounts.binancezh.cc/zh-CN/register?ref=18635115)
-> * 或直接扫描下方二维码下载APP：
+> * 注册地址1(需科学上网)：
+[https://binance.com/register?ref=18635115](https://www.binancezh.com/cn/register?ref=18635115)（需要科学D上网）
+> * 注册地址2(国内可直接访问)：
+[https://accounts.binancezh.cc/zh-CN/register?ref=18635115](https://accounts.binancezh.cc/zh-CN/register?ref=18635115)
+
+或直接扫描下方二维码下载APP：
 ![](images/BA-2.jpg =200x342)
-
 或地址
 ![binance](images/BA-1.jpg =200x240)
 
-**<font color=LimeGreen>新用户注册一定记得填写推荐人ID 18635115 ，有很多优惠活动.</font>**
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  18635115 ，有很多优惠活动.</font>**
 
 ### 1.3 OKX(原OKX)
 
@@ -226,22 +230,23 @@ OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 
 OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在暴跌的时候会出现来不及成交的情况，比方你开了多仓，设定的某个价格触发平仓止损比方说10块钱吧，但是价格瞬间从10.5跌倒9块的时候，有可能你设置的10块钱触发价格是无法成交的，因为跌的太快了，这个主要是合约的流动性的问题了，所以这点要清楚，做合约一定要选流动性好的，在OKX上可以选择像 btc，eth,eos等这些主流的合约来做，BTG、XRP、BCH流动性就比较差一点，自己去拿捏吧。
 
-> * 注册地址(需科学上网)：[https://www.OKX.com](https://OKX.com/join/1838269)（需要科学D上网）
+> * 注册地址(需科学上网)：
+[https://www.OKX.com](https://OKX.com/join/1838269)（需要科学D上网）
 
->  * 或扫描下方二维码下载APP：
+* 或扫描下方二维码下载APP：
 
 ![OKX](images/OKX.jpg =200x229)
 
-**<font color=LimeGreen>新用户注册一定记得填写推荐人ID 1838269 ，有很多优惠活动.</font>**
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  1838269 ，有很多优惠活动.</font>**
 
 
 
 
-~~### 1.4 huobi 火币 （排名前3的大交易所）
+### 1.4 huobi 火币 （排名前3的大交易所）
 **<font color=Crimson>不再推荐火币，已基本倒闭！</font>**
-![](images/huobi-logo.jpg)
 
 火币全球站（Huobi Global）总部位于新加坡，是火币集团旗下服务于全球专业交易用户的创新数字资产交易平台，它致力于发现优质的创新数字资产投资机会。目前提供包括BTC、ETH、LTC、HT在内的上百个币种的币币交易，主流币种的杠杆交易、合约交易，和包括USD、CNY在内的19种法币与主流币种的OTC交易。
+![](images/huobi-logo.jpg)
 
 火币集团是知名数字经济领军企业，自2013年创立以来，一直致力于区块链领域的核心技术突破以及区块链技术和产业融合。围绕区块链产业上下游，发展包括产业区块链、公链、数字资产交易、数字资产安全钱包、矿池、投资、孵化、研究等多业务板块，先后投资60+上下游企业，已形成全面的数字经济产业生态体系。火币集团与阿根廷、俄罗斯、泰国、尼日利亚等多个国家开展区块链技术、应用领域合作，助推全球区块链应用落地。
 
@@ -249,7 +254,7 @@ OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 
 
 > * 注册地址1(需科学上网)：[https://huobi.com](https://huobi.com/zh-cn/register/?invite_code=ribg3)
-> * 注册地址2(国内可直接访问)：[https://www.huobi.be/zh-cn/register/?invite_code=ribg3](https://www.huobi.be/zh-cn/register/?invite_code=ribg3)~~
+> * 注册地址2(国内可直接访问)：[https://www.huobi.be/zh-cn/register/?invite_code=ribg3](https://www.huobi.be/zh-cn/register/?invite_code=ribg3)
 
 
 
@@ -394,6 +399,6 @@ dPoS（[Delegated Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake#D
 
 ## 联系方式
 
-如果大家有关于注册下载之类的问题，可以添加我的微信协助大家：
+如果大家有关于注册下载之类的问题，可以添加我的微信协助大家(请注明 BTC)：
 
 ![](images/wx.jpg)
