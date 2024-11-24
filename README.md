@@ -188,10 +188,9 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 
 >  * 或扫描下方二维码下载APP：
 
-![](images/GATE.jpg =200x401)
+![GATE](images/GATE.jpg =200x401)
 
-新用户注册GateIo一定记得填写**推荐人ID BQMSUFE **，有很多优惠活动.
-
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID BQMSUFE ，有很多优惠活动.</font>**
 
 ### 1.2 币安
 
@@ -212,10 +211,9 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 ![](images/BA-2.jpg =200x342)
 
 或地址
-![](images/BA-1.jpg =200x240)
+![binance](images/BA-1.jpg =200x240)
 
-新用户注册币安一定记得填写币安推荐人ID 18635115 ，有很多优惠活动。
-
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID 18635115 ，有很多优惠活动.</font>**
 
 ### 1.3 OKX(原OKX)
 
@@ -232,9 +230,9 @@ OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 
 >  * 或扫描下方二维码下载APP：
 
-![](images/OKX.jpg =200x229)
+![OKX](images/OKX.jpg =200x229)
 
-新用户注册一定记得填写**推荐人ID 1838269 **，有很多优惠活动.
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID 1838269 ，有很多优惠活动.</font>**
 
 
 
@@ -251,7 +249,7 @@ OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 
 
 > * 注册地址1(需科学上网)：[https://huobi.com](https://huobi.com/zh-cn/register/?invite_code=ribg3)
-> * 注册地址2(国内可直接访问)：[https://www.huobi.be/zh-cn/register/?invite_code=ribg3](https://www.huobi.be/zh-cn/register/?invite_code=ribg3)
+> * 注册地址2(国内可直接访问)：[https://www.huobi.be/zh-cn/register/?invite_code=ribg3](https://www.huobi.be/zh-cn/register/?invite_code=ribg3)~~
 
 
 
