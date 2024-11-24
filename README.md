@@ -169,7 +169,7 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 > [邀请人ID请填： BQMSUFE ]
 
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID: BQMSUFE ，有很多优惠活动.</font>**
-* 或扫描下方二维码下载APP：
+或扫描下方二维码下载APP：
 
 <img src="images/GATE.jpg" alt="GATE" width="200" height="400">
 
@@ -192,16 +192,17 @@ Gate.io作为前十的交易所交易等一直都很稳定。而且它最吸引�
 > * 注册地址2(国内可直接访问)：<br/>
 [https://accounts.binancezh.cc/zh-CN/register?ref=18635115](https://accounts.binancezh.cc/zh-CN/register?ref=18635115)
 
-**<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  18635115 ，有很多优惠活动.</font>**
+> [邀请人ID请填： 18635115 ]
 
 或直接扫描下方二维码下载APP：
 
-<img src="images/BA-2.jpg" alt="GATE" width="200" height="342">
-或地址
+<img src="images/BA-2.jpg" alt="GATE" width="200" height="342"><br/>
 
-<img src="images/BA-1.jpg" alt="GATE" width="200" height="240">
+或地址<br/>
 
+<img src="images/BA-1.jpg" alt="GATE" width="200" height="240"><br/>
 
+**<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  18635115 ，有很多优惠活动.</font>**
 
 ### 1.3 OKX(原OKX)
 <img src="images/logo-OKX.png" alt="OKX">
@@ -214,11 +215,13 @@ OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在�
 OKX的合约交易杠杠风险很大，也可以设置触发价格，但是在暴跌的时候会出现来不及成交的情况，比方你开了多仓，设定的某个价格触发平仓止损比方说10块钱吧，但是价格瞬间从10.5跌倒9块的时候，有可能你设置的10块钱触发价格是无法成交的，因为跌的太快了，这个主要是合约的流动性的问题了，所以这点要清楚，做合约一定要选流动性好的，在OKX上可以选择像 btc，eth,eos等这些主流的合约来做，BTG、XRP、BCH流动性就比较差一点，自己去拿捏吧。
 
 > * 注册地址(需科学上网)：<br/>
-[https://www.OKX.com](https://OKX.com/join/1838269)（需要科学D上网）
+[https://www.OKX.com](https://OKX.com/join/1838269)
+
+> [邀请人ID请填： 1838269 ]
 
 * 或扫描下方二维码下载APP：
 
-<img src="images/OKX.jpg" alt="OKX" width="200" height="229">
+<img src="images/OKX.jpg" alt="OKX" width="200" height="229"><br/>
 
 **<font color=LimeGreen>新用户注册一定记得填写推荐人ID:  1838269 ，有很多优惠活动.</font>**
 
